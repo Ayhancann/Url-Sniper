@@ -1,7 +1,7 @@
 # Url-Sniper
 Discord için Url Sniper
 
-##Kurulum
+## Kurulum
 
 » Python yüklü değilse indiriniz: [python](https://www.python.org/downloads/)
 
